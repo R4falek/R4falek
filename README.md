@@ -1,4 +1,5 @@
 ### Hi there 👋
+**It's nice weather today**
 
 <!--
 **R4falek/R4falek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
