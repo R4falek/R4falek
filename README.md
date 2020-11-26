@@ -2,6 +2,7 @@
 **It's nice weather today**
 
 **[Strona](https://r4falek.github.io/R4falek/)**
+**[Fork do artykółu](https://github.com/R4falek/stylegan2.git)**
 
 <!--
 **R4falek/R4falek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
