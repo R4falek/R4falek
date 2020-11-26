@@ -2,6 +2,7 @@
 **It's nice weather today**
 
 **[Strona](https://r4falek.github.io/R4falek/)**
+
 **[Fork do artykułu](https://github.com/R4falek/stylegan2.git)**
 
 <!--
