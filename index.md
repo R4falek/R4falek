@@ -3,6 +3,10 @@
 **Witam - ładny oreł?**
 # ![alt](https://ocdn.eu/pulscms-transforms/1/El9k9kpTURBXy9mOTk1NzZhNTY3YjhlYjljZWQ3MDcxMGJjNWEzZTZhNy5qcGeTlQMAFs0C1M0Bl5MFzQMUzQG8kwmmMDZjMDIzBoGhMAU/gettyimages-954867550.webp)
 
+## Projekt Maze
+Jest to aplikacja, która zawiera kalkulator, checklisty oraz quiz geograficzny. Projekt powstał z myślą o uczniach i codziennych problemach, z jakimi muszą się zmagać. Projekt Maze wychodzi naprzeciw oczekiwaniom i oferuje pomoc na różnych płaczszyznach. Aplikacja posiada prosty i przejrzysty interfejs graficzny, co sprawia, że jest świetna dla każdego, nie tylko ucznia.
+
+![alt](D:\Pulpit\PP10\pmaze/png)
 
 ### Markdown
 
