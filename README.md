@@ -1,6 +1,8 @@
 ### Hi there 👋
 **It's nice weather today**
 
+- I'm 3'rd year student of Computer Science and Inteligent Systems on AGH Cracow.
+
 **[Strona](https://r4falek.github.io/R4falek/)**
 
 **[Fork do artykułu](https://github.com/R4falek/stylegan2.git)**
