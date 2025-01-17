@@ -1,7 +1,7 @@
 ### Hi there 👋
 **It's nice weather today**
 
--I'm an engineer with a degree in Computer Science and Intelligent Systems on AGH Cracow.
+- I'm an engineer with a degree in Computer Science and Intelligent Systems on AGH Cracow.
 
 <!--
 **R4falek/R4falek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
